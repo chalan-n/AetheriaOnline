@@ -17,7 +17,7 @@
 ## 📥 ดาวน์โหลด (Download)
 
 > [!TIP]
-> เลือกดาวน์โหลดเวอร์ชันล่าสุดได้ที่หน้า **[Releases](https://github.com/aetheria-online/client/releases)** ในส่วน **Assets**:
+> เลือกดาวน์โหลดเวอร์ชันล่าสุดได้ที่หน้า **[Releases](https://github.com/chalan-n/AetheriaOnline/releases/)** ในส่วน **Assets**:
 
 | รูปแบบไฟล์ | รายละเอียดการติดตั้ง |
 | :--- | :--- |
