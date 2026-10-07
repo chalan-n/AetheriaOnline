@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="build/icon.png" width="110" height="110" alt="Aetheria Online Logo" style="border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
-</p>
-
 <h1 align="center">Aetheria Online Client</h1>
 
 <p align="center">
